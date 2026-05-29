@@ -35,8 +35,8 @@ Edite o arquivo `config.json` com os seguintes campos:
 
 ```json
 {
-  "token": "SEU_TOKEN_AQUI",
-  "guildId": "ID_DO_SERVIDOR",
+  "token": "MTUwOTk5OTA3ODA4NjQxMDMyMQ.GPWunf.0cfYzjsciJhaYTgAE7SZ7dfAQ7uR4QIX36DPf0",
+  "guildId": "1507982193773908028",
   "minimunKakeraValue": 100
 }
 ```
